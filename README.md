@@ -11,6 +11,9 @@ Multi Agent System Overview:
 Workflow of the system:
 <img width="1019" height="883" alt="Screenshot 2025-08-17 at 09 50 46" src="https://github.com/user-attachments/assets/f38c7cdf-165a-4163-abd4-c00b22e73a7c" />
 
+## Data Structure
+<img width="1561" height="853" alt="Screenshot 2025-08-18 at 08 57 40" src="https://github.com/user-attachments/assets/0dba30ec-dc56-48a3-9368-c83f8a6d12db" />
+<img width="1058" height="684" alt="Screenshot 2025-08-18 at 08 59 14" src="https://github.com/user-attachments/assets/5f1b5b15-a720-413e-a964-2518f1c64015" />
 
  ## Core Tool Implementation
 
@@ -138,6 +141,8 @@ Create a tool that:
 - **Complete Analysis**: Full JSON analysis with all data
 - **German Report**: Human-readable German feedback (TXT)
 - **Executive Summary**: Key metrics and compliance overview (JSON)
+
+  
   <img width="446" height="553" alt="Screenshot 2025-08-18 at 08 52 15" src="https://github.com/user-attachments/assets/90337491-a9f7-4ed0-9a76-e6984e4d3608" />
 
 
